@@ -1,0 +1,18 @@
+sitio,direccion,puntuacion,contador,Opcion_opcion
+Abando,"https://www.google.es/maps/place/Bilbao/@43.2601495,-2.9285938,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e4fce2e7f95cb:0x16b273e133730167!8m2!3d43.2601495!4d-2.9264051",3,2,Transportes
+"Azkuna Zentroa","https://www.google.es/maps/place/Azkuna+Zentroa/@43.2598291,-2.939001,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e4fd6478b8a25:0x8b3be5dc2a4d49d9!8m2!3d43.2598291!4d-2.9368123",4,2,Deportes
+Barceló,"https://www.google.es/maps/place/Barcel%C3%B3+Bilbao+Nervi%C3%B3n/@43.2651321,-2.9272917,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e4fc5bd31b45d:0x83b19b023e2f1c0d!8m2!3d43.2651321!4d-2.925103",4.73333,15,Alojamiento
+"Bilbao Kirolak","https://www.google.es/maps/place/Bilbao+Kirolak+-+Instituto+Municipal+de+Deportes+Sociedad+Anonima/@43.2609435,-2.9289362,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e4fcb23f1c655:0xefcc6f6525f5752a!8m2!3d43.2609435!4d-2.9267475",2.22222,9,Deportes
+"El Corte Ingles","https://www.google.es/maps/place/El+Corte+Ingl%C3%A9s/@43.2615685,-2.9383406,15z/data=!4m8!1m2!2m1!1sel+corte+ingles+bilbao!3m4!1s0xd4e4fd091ba0b45:0x80aecf60675a5b59!8m2!3d43.261549!4d-2.9294872",4,2,Compras
+Ercilla,"https://www.google.es/maps/place/Hotel+Ercilla/@43.2611998,-2.9406543,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e5028388181dd:0x1b0d1daf36a39f01!8m2!3d43.2611998!4d-2.9384656",2,3,Alojamiento
+Etxanobe,"https://www.google.es/maps/place/ETXANOBE/@43.267024,-2.9458984,17z/data=!3m2!4b1!5s0xd4e50247040988f:0x5d0e13054f333094!4m5!3m4!1s0xd4e502469a2dd7d:0x9cdd3c7a072b7a8e!8m2!3d43.267024!4d-2.9437097",5,1,Restaurantes
+Euskalduna,"https://www.google.es/maps/place/Palacio+Euskalduna+Jauregia/@43.266915,-2.9467097,17z/data=!3m2!4b1!5s0xd4e50247040988f:0x5d0e13056dc0b8d5!4m5!3m4!1s0xd4e502463ab4003:0xdd291c55d656c0a1!8m2!3d43.266915!4d-2.944521",4,1,Monumentos
+Fnac,"https://www.google.es/maps/place/FNAC+BILBAO/@43.2613269,-2.9322121,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e4fd057f5e725:0x1149334bc16a475a!8m2!3d43.2613269!4d-2.9300234",3.5,2,Compras
+"Gran Bilbao","https://www.google.es/maps/place/Hotel+Gran+Bilbao/@43.2490566,-2.9215253,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e4e35d93f2259:0x43ebff410cb03786!8m2!3d43.2490566!4d-2.9193366",5,1,Alojamiento
+Guggenheim,"https://www.google.es/maps/place/Museo+Guggenheim+Bilbao/@43.2686712,-2.9362005,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e4fdede6031b5:0x508893b7cdaf6dad!8m2!3d43.2686712!4d-2.9340118",2.75,4,Monumentos
+Kuma,"https://www.google.es/maps/place/KUMA/@43.2650667,-2.9331296,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e4fda4e3b3507:0x75fbdfcc64570b02!8m2!3d43.2650667!4d-2.9309409",3.75,4,Restaurantes
+Mazarredo,"https://www.google.es/maps/search/mazarredo/@43.2617743,-2.9482663,15z/data=!3m1!4b1",2.85715,7,Fiesta
+Porrue,"https://www.google.es/maps/place/Restaurante+Porrue/@43.2673716,-2.9355421,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e4fd94e426f01:0xa0a2dba18499c440!8m2!3d43.2673716!4d-2.9333534",3.21428,1,Restaurantes
+Pozas,"https://www.google.es/maps/place/Pozas,+Bilbao,+Vizcaya/@43.2617747,-2.9417002,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e502879003dfb:0xdc4750aea8d3f739!8m2!3d43.2617747!4d-2.9395115",2.8,5,Fiesta
+Termibus,"https://www.google.es/maps/place/Termibus/@43.2613238,-2.9523844,17z/data=!3m1!4b1!4m5!3m4!1s0xd4e5030e851286d:0xa86a0a32e696b913!8m2!3d43.2613238!4d-2.9501957",2.25,4,Transportes
+Zara,"https://www.google.es/maps/place/Zara/@43.2617737,-2.9482663,15z/data=!4m8!1m2!2m1!1szara!3m4!1s0xd4e4fd7fd693a99:0xa4945ed0de7d070b!8m2!3d43.2623299!4d-2.937547",2.75,4,Compras
